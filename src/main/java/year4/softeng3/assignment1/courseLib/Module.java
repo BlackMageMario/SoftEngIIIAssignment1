@@ -1,6 +1,10 @@
+package year4.softeng3.assignment1.courseLib;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class Module {
+    private static String idPattern = "(^([A-Z]){2,}([0-9])+)";
     public String name;
     private String id;
     private List<Student> students;
@@ -8,14 +12,16 @@ public class Module {
     public Module(String name, String id)
     {
         this.name = name;
+        if(!id.matches(idPattern)) {
+            throw new IllegalArgumentException("id is not in the form [capital characters][0=9]");
+        }
         this.id = id;
+        this.students = new ArrayList<Student>();
     }
 
     public Module(String name, String id, List<Student> initalStudents)
     {
-        this.name = name;
-        // do checking to make sure that the name is in a correct format
-        this.id = id;
+        this(name, id);
         students = initalStudents;
     }
 
@@ -33,13 +39,4 @@ public class Module {
         }
     }
 
-    public void addStudents(List<Student> students) {
-        // early optimisation incase we try to add a bunch of students already added
-        if(students.containsAll(students)) {
-            return;
-        }
-        for(Student student: students) {
-           addStudent(student);
-        }
-    }
 }
