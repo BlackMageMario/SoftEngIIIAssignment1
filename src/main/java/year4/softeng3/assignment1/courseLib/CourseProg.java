@@ -27,7 +27,7 @@ public class CourseProg {
 
     public CourseProg(String name, LocalDate startLocalDate, LocalDate endLocalDate, List<Module> initalModules) {
         this(name, startLocalDate, endLocalDate);
-        this.modules = initalModules;
+        this.modules = new ArrayList<>(initalModules);
     }
 
     public List<Module> getModules() {

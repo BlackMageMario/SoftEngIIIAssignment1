@@ -4,9 +4,12 @@
     <list default="true" id="63f91386-24cd-40aa-acb4-f6e228b242a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CourseProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/ModuleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/ModuleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/year4/softeng3/assignment1/courseLib/test/CourseProgTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/year4/softeng3/assignment1/courseLib/test/CourseProgTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/year4/softeng3/assignment1/courseLib/test/ModuleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/year4/softeng3/assignment1/courseLib/test/ModuleTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,7 +33,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -38,19 +41,19 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7313" />
+          <entry key="java" value="7398" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7313" />
+          <entry key="JAVA" value="7398" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -64,22 +67,22 @@
             <entry file="file://$PROJECT_DIR$/pom.xml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="212">
-                  <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+                  <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/ModuleTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="584">
-                  <caret line="47" column="75" selection-start-line="47" selection-start-column="75" selection-end-line="47" selection-end-column="75" />
+                <state relative-caret-position="192">
+                  <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#925#926#0" expanded="true" />
-                    <element signature="e#953#954#0" expanded="true" />
-                    <element signature="e#1029#1030#0" expanded="true" />
-                    <element signature="e#1087#1088#0" expanded="true" />
+                    <element signature="e#966#967#0" expanded="true" />
+                    <element signature="e#1024#1025#0" expanded="true" />
+                    <element signature="e#1066#1067#0" expanded="true" />
+                    <element signature="e#1144#1145#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -89,7 +92,7 @@
             <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/StudentTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1309">
-                  <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+                  <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#1169#1170#0" expanded="true" />
@@ -107,11 +110,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="440">
-                  <caret line="38" selection-start-line="38" selection-end-line="38" />
+                <state relative-caret-position="229">
+                  <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#1207#1208#0" expanded="true" />
@@ -129,10 +132,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Student.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="454">
+                <state relative-caret-position="418">
                   <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -144,8 +147,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+                <state relative-caret-position="272">
+                  <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -153,11 +156,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="567">
-                  <caret line="40" selection-start-line="40" selection-end-line="40" />
+                <state relative-caret-position="280">
+                  <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -179,9 +182,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Date</find>
+      <find>Arrays.asList</find>
     </findStrings>
     <replaceStrings>
       <replace>LocalDate</replace>
+      <replace>List.of</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -194,12 +199,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/Module.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java" />
-        <option value="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/StudentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java" />
         <option value="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/ModuleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java" />
+        <option value="$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java" />
       </list>
     </option>
   </component>
@@ -281,7 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538849990143" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538850881505" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -346,8 +351,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ModuleTest" />
-        <item itemvalue="JUnit.StudentTest" />
         <item itemvalue="JUnit.CourseProgTest" />
+        <item itemvalue="JUnit.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -365,24 +370,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CourseProgTest - 2018.10.06 at 18h 35m 07s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CourseProgTest - 2018.10.06 at 18h 36m 16s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CourseProgTest - 2018.10.06 at 18h 38m 17s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CourseProgTest - 2018.10.06 at 18h 38m 30s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CourseProgTest - 2018.10.06 at 19h 05m 49s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CourseProgTest - 2018.10.06 at 19h 06m 33s.xml">
-      <configuration name="CourseProgTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentTest - 2018.10.06 at 19h 06m 43s.xml">
       <configuration name="StudentTest" configurationId="JUnit" />
     </history-entry>
@@ -394,6 +381,24 @@
     </history-entry>
     <history-entry file="StudentTest - 2018.10.06 at 19h 09m 22s.xml">
       <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModuleTest - 2018.10.06 at 19h 19m 54s.xml">
+      <configuration name="ModuleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModuleTest - 2018.10.06 at 19h 21m 56s.xml">
+      <configuration name="ModuleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModuleTest - 2018.10.06 at 19h 28m 10s.xml">
+      <configuration name="ModuleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModuleTest - 2018.10.06 at 19h 29m 06s.xml">
+      <configuration name="ModuleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CourseProgTest - 2018.10.06 at 19h 29m 38s.xml">
+      <configuration name="CourseProgTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CourseProgTest - 2018.10.06 at 19h 33m 22s.xml">
+      <configuration name="CourseProgTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -410,13 +415,13 @@
       <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.18546638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.4370933" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.18546638" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.4370933" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,40 +462,14 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1237#1238#0" expanded="true" />
-            <element signature="e#1619#1620#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1698#1699#0" expanded="true" />
-            <element signature="e#1733#1734#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
-          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1169#1170#0" expanded="true" />
@@ -507,20 +486,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java">
+    <entry file="jar://C:/Program Files/Java/openjdk-11/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/CourseProgTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="272">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -529,14 +505,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/year4/softeng3/assignment1/courseLib/test/ModuleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="47" column="75" selection-start-line="47" selection-start-column="75" selection-end-line="47" selection-end-column="75" />
+        <state relative-caret-position="192">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/year4/softeng3/assignment1/courseLib/CourseProg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1656#1657#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -22,7 +22,7 @@ public class Module {
     public Module(String name, String id, List<Student> initalStudents)
     {
         this(name, id);
-        students = initalStudents;
+        students = new ArrayList<>(initalStudents);
     }
 
     public String getId() {
