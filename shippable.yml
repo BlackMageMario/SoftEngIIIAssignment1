@@ -1,0 +1,17 @@
+language: java
+
+branches:
+  only:
+    - master
+
+build:
+  ci:
+    - mvn compiler:compile
+
+integrations:
+  notifications:
+    - integrationName: email
+      type: email
+      on_success: yes
+      on_failure: always
+      on_pull_request: never
