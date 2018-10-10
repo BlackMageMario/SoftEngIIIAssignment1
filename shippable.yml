@@ -1,5 +1,8 @@
 language: java
 
+jdK: 
+  - openjdk10
+
 branches:
   only:
     - master
@@ -7,6 +10,7 @@ branches:
 build:
   ci:
     - mvn compiler:compile
+    - mvn test
 
 integrations:
   notifications:
